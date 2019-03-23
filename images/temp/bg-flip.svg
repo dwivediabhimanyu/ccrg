@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-148.0012" y1="540.4058" x2="1774.7875" y2="540.4058" gradientTransform="matrix(0.9985 8.635584e-04 8.648132e-04 -1 147.3183 1080.2357)">
+	<stop  offset="0" style="stop-color:#15FFEE"/>
+	<stop  offset="0.3627" style="stop-color:#15CAF5"/>
+	<stop  offset="0.7924" style="stop-color:#1590FC"/>
+	<stop  offset="0.999" style="stop-color:#1579FF"/>
+</linearGradient>
+<path class="st0" d="M1920,594.9l0.5-593L0.5,0.2l-0.9,1079.1l460,0.4c0,0,130.2-256.9,500.2-258.6
+	C1329.8,819.4,1920,594.9,1920,594.9z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-295.9998" y1="931.8716" x2="-295.9998" y2="931.8716" gradientTransform="matrix(-0.9985 8.635584e-04 -8.648131e-04 -1 1769.8966 1080.2357)">
+	<stop  offset="0" style="stop-color:#15FFEE"/>
+	<stop  offset="0.1834" style="stop-color:#15FBEE"/>
+	<stop  offset="0.3553" style="stop-color:#15F0F0"/>
+	<stop  offset="0.5226" style="stop-color:#15DDF2"/>
+	<stop  offset="0.6872" style="stop-color:#15C2F6"/>
+	<stop  offset="0.8481" style="stop-color:#15A0FA"/>
+	<stop  offset="1" style="stop-color:#1579FF"/>
+</linearGradient>
+<path class="st1" d="M2064.7,148.1"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="769" y1="118" x2="769" y2="118">
+	<stop  offset="1.246007e-07" style="stop-color:#15FFEE"/>
+	<stop  offset="0.3627" style="stop-color:#15CAF5"/>
+	<stop  offset="0.7924" style="stop-color:#1590FC"/>
+	<stop  offset="0.999" style="stop-color:#1579FF"/>
+</linearGradient>
+<path class="st2" d="M769,118"/>
+</svg>
